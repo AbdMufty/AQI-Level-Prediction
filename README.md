@@ -212,7 +212,9 @@ Suggested improvements include documenting dataset sources, adding reproducible 
 
 ## License
 
-No license is specified in the uploaded notebook. Add a license file (for example, MIT) only after deciding how the project may be reused and confirming that the dataset terms permit your intended distribution.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+Note: Third-party datasets and libraries may have separate license terms.
 
 ## Contact
 
