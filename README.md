@@ -216,6 +216,5 @@ No license is specified in the uploaded notebook. Add a license file (for exampl
 
 ## Contact
 
-**Author:** YOUR NAME  
-**GitHub:** https://github.com/YOUR_USERNAME  
-**Email:** YOUR_EMAIL
+**Author:** Abdullah Al Mufty  
+**Email:** abdmufty28@gmail.com
